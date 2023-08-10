@@ -1,4 +1,4 @@
-package com.example.springdeveloper;
+package com.example.springdeveloper.dto;
 
 import com.example.springdeveloper.domain.Article;
 import lombok.AllArgsConstructor;
